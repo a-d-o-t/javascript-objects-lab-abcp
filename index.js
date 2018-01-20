@@ -8,6 +8,6 @@ var recipes = {
 }
 
 function updateObjectWithKeyAndValue(object, key, value) {
-  newIng = {key: value};
+  newIng = {key:value};
   return Object.assign({}, object, newIng)
 }
