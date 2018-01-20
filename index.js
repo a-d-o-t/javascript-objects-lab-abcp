@@ -1,6 +1,6 @@
 //Omgosh, a gif from my generation on this lab page. It's *Darling*
 
-recipes = {
+var recipes = {
   milk: "one cup",
   chocolate: "two squares",
   vanilla: "1/2 teaspoon",
